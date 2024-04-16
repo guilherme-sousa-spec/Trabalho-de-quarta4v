@@ -1,0 +1,46 @@
+﻿Construindo um Formulário de Coleta de Dados para sua Pesquisa Acadêmica
+Introdução:
+Olá! Estamos realizando uma pesquisa importante para implementar uma cultura de Data Driven Education em nossa faculdade. Com base na ciência de dados, queremos aprimorar a eficiência operacional, a qualidade do ensino e a satisfação dos alunos.
+Sua participação é fundamental!
+Suas respostas serão totalmente confidenciais e protegidas pela Lei Geral de Proteção de Dados Pessoais (LGPD). As informações coletadas serão utilizadas exclusivamente para fins de pesquisa e não serão compartilhadas com terceiros.
+Para iniciar a pesquisa, responda à seguinte pergunta:
+Qual curso você está frequentando?
+Qual é a sua faixa etária?
+* Menos de 18 anos
+* 18-24 anos
+* 25-34 anos
+* 35-44 anos
+* 45-54 anos
+* 55 anos ou mais
+Você está satisfeito com a qualidade dos materiais didáticos fornecidos?
+* Sim
+* Não
+* Parcialmente
+Com que frequência você utiliza recursos digitais (plataformas online, aplicativos, etc.) para auxiliar seus estudos?
+* Diariamente
+* Semanalmente
+* Mensalmente
+* Raramente
+* Nunca
+Como você avalia a infraestrutura tecnológica da instituição (internet, salas de aula equipadas, etc.)?
+* Excelente
+* Bom
+* Regular
+* Ruim
+* Péssimo
+Você tem acesso a serviços de suporte acadêmico (tutoria, orientação vocacional, etc.) quando necessário?
+* Sim
+* Não
+* Às vezes
+Você se sente integrado à comunidade acadêmica da faculdade?
+a) Muito integrado
+b) Integrado
+c) Neutro
+d) Pouco integrado
+* e) Não me sinto integrado
+Você recomendaria a sua graduação para outras pessoas?
+a) Sim, com certeza
+b) Provavelmente sim
+c) Não tenho certeza
+d) Provavelmente não
+* e) Não recomendaria
